@@ -1,2 +1,2 @@
 # finding_me
-#I am to edit this file
+#Welcome me to github, lol!
